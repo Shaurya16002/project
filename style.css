@@ -1,0 +1,39 @@
+
+
+  h1{
+     color:red;
+  }
+
+  body {
+      background-color: lightyellow;
+  }
+
+  .header{
+      background-color:brown;
+      display: flex;
+      justify-content:space-around;
+  }
+
+  .grid{
+    display: flex;  
+    flex-wrap: wrap;
+    
+ }
+
+ .camel{
+     display: flex;
+     flex-wrap:wrap; 
+     justify-content:first baseline ;
+ }
+
+ .cham{
+    display: flex;
+    flex-wrap:wrap; 
+    justify-content: first baseline;
+}
+
+.cicada{
+    display: flex;
+    flex-wrap:wrap; 
+    justify-content: first baseline;
+}
